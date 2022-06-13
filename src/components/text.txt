@@ -1,0 +1,11 @@
+1.
+constructor-lifecycleA
+LifecycleA.js:10 constructor-lifecycleA
+LifecycleA.js:13 getDerivedStateFromProps
+LifecycleA.js:13 getDerivedStateFromProps
+LifecycleA.js:17 componentDidMount
+LifecycleA.js:17 componentDidMount
+
+
+2.
+use jsonPlaceholders for api calls======> axios
